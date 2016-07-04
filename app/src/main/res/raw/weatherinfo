@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <resp>
+
+    <!-- 10.10.162.42(10.10.162.42):55476 ; 10.10.156.163:8080 -->
+
+    <city>张家界</city>
+
+    <updatetime>14:00</updatetime>
+
+    <wendu>31</wendu>
+
+    <fengli>2级</fengli>
+
+    <shidu>38%</shidu>
+
+    <fengxiang>西北风</fengxiang>
+
+    <sunrise_1>05:39</sunrise_1>
+
+    <sunset_1>19:39</sunset_1>
+
+    <sunrise_2/>
+
+    <sunset_2/>
+
+
+    -<yesterday>
+
+    <date_1>16日星期四</date_1>
+
+    <high_1>高温 34℃</high_1>
+
+    <low_1>低温 21℃</low_1>
+
+
+    -<day_1>
+
+    <type_1>晴</type_1>
+
+    <fx_1>南风</fx_1>
+
+    <fl_1>微风</fl_1>
+
+</day_1>
+
+
+    -<night_1>
+
+    <type_1>多云</type_1>
+
+    <fx_1>南风</fx_1>
+
+    <fl_1>微风</fl_1>
+
+</night_1>
+
+</yesterday>
+
+  <forecast>
+
+
+    -<weather>
+
+    <date>17日星期五</date>
+
+    <high>高温 35℃</high>
+
+    <low>低温 21℃</low>
+
+
+    -<day>
+
+    <type>晴</type>
+
+    <fengxiang>南风</fengxiang>
+
+    <fengli>微风级</fengli>
+
+</day>
+
+
+    -<night>
+
+    <type>多云</type>
+
+    <fengxiang>南风</fengxiang>
+
+    <fengli>微风级</fengli>
+
+</night>
+
+</weather>
+
+
+    -<weather>
+
+    <date>18日星期六</date>
+
+    <high>高温 33℃</high>
+
+    <low>低温 23℃</low>
+
+
+    -<day>
+
+    <type>多云</type>
+
+    <fengxiang>南风</fengxiang>
+
+    <fengli>微风级</fengli>
+
+</day>
+
+
+    -<night>
+
+    <type>雷阵雨</type>
+
+    <fengxiang>南风</fengxiang>
+
+    <fengli>微风级</fengli>
+
+</night>
+
+</weather>
+
+
+    -<weather>
+
+    <date>19日星期天</date>
+
+    <high>高温 29℃</high>
+
+    <low>低温 23℃</low>
+
+
+    -<day>
+
+    <type>雷阵雨</type>
+
+    <fengxiang>南风</fengxiang>
+
+    <fengli>微风级</fengli>
+
+</day>
+
+
+    -<night>
+
+    <type>中雨</type>
+
+    <fengxiang>南风</fengxiang>
+
+    <fengli>微风级</fengli>
+
+</night>
+
+</weather>
+
+
+    -<weather>
+
+    <date>20日星期一</date>
+
+    <high>高温 29℃</high>
+
+    <low>低温 23℃</low>
+
+
+    -<day>
+
+    <type>阵雨</type>
+
+    <fengxiang>南风</fengxiang>
+
+    <fengli>微风级</fengli>
+
+</day>
+
+
+    -<night>
+
+    <type>阵雨</type>
+
+    <fengxiang>南风</fengxiang>
+
+    <fengli>微风级</fengli>
+
+</night>
+
+</weather>
+
+
+    -<weather>
+
+    <date>21日星期二</date>
+
+    <high>高温 29℃</high>
+
+    <low>低温 23℃</low>
+
+
+    -<day>
+
+    <type>阵雨</type>
+
+    <fengxiang>南风</fengxiang>
+
+    <fengli>微风级</fengli>
+
+</day>
+
+
+    -<night>
+
+    <type>阵雨</type>
+
+    <fengxiang>南风</fengxiang>
+
+    <fengli>微风级</fengli>
+
+</night>
+
+</weather>
+
+</forecast>
+
+
+    -<zhishus>
+
+
+    -<zhishu>
+
+    <name>晨练指数</name>
+
+    <value>较适宜</value>
+
+    <detail>早晨气象条件较适宜晨练，但晨练时会感觉有点凉，建议晨练着装不要过于单薄，以防感冒。</detail>
+
+</zhishu>
+
+
+    -<zhishu>
+
+    <name>舒适度</name>
+
+    <value>很不舒适</value>
+
+    <detail>白天天气晴好，但烈日炎炎会使您会感到很热，很不舒适。</detail>
+
+</zhishu>
+
+
+    -<zhishu>
+
+    <name>穿衣指数</name>
+
+    <value>炎热</value>
+
+    <detail>天气炎热，建议着短衫、短裙、短裤、薄型T恤衫等清凉夏季服装。</detail>
+
+</zhishu>
+
+
+    -<zhishu>
+
+    <name>感冒指数</name>
+
+    <value>少发</value>
+
+    <detail>各项气象条件适宜，发生感冒机率较低。但请避免长期处于空调房间中，以防感冒。</detail>
+
+</zhishu>
+
+
+    -<zhishu>
+
+    <name>晾晒指数</name>
+
+    <value>极适宜</value>
+
+    <detail>天气不错，极适宜晾晒。抓紧时机把久未见阳光的衣物搬出来晒晒太阳吧！</detail>
+
+</zhishu>
+
+
+    -<zhishu>
+
+    <name>旅游指数</name>
+
+    <value>一般</value>
+
+    <detail>天气较好，同时又有微风伴您一路同行，但是比较热，外出旅游请注意防晒，并注意防暑降温。</detail>
+
+</zhishu>
+
+
+    -<zhishu>
+
+    <name>紫外线强度</name>
+
+    <value>强</value>
+
+    <detail>紫外线辐射强，建议涂擦SPF20左右、PA++的防晒护肤品。避免在10点至14点暴露于日光下。</detail>
+
+</zhishu>
+
+
+    -<zhishu>
+
+    <name>洗车指数</name>
+
+    <value>较适宜</value>
+
+    <detail>较适宜洗车，未来一天无雨，风力较小，擦洗一新的汽车至少能保持一天。</detail>
+
+</zhishu>
+
+
+    -<zhishu>
+
+    <name>运动指数</name>
+
+    <value>较适宜</value>
+
+    <detail>天气较好，户外运动请注意防晒。推荐您进行室内运动。</detail>
+
+</zhishu>
+
+
+    -<zhishu>
+
+    <name>约会指数</name>
+
+    <value>不适宜</value>
+
+    <detail>室外热浪袭人，外出约会可能会因为毒辣的太阳败兴而归，男士请尽量别约美眉逛街。</detail>
+
+</zhishu>
+
+
+    -<zhishu>
+
+    <name>雨伞指数</name>
+
+    <value>不带伞</value>
+
+    <detail>天气较好，您在出门的时候无须带雨伞。</detail>
+
+</zhishu>
+
+</zhishus>
+
+</resp>
